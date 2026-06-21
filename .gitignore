@@ -1,0 +1,6 @@
+# Ignore the database folder and any SQL files
+Database/
+*.sql
+
+# Ignore user uploaded images (optional, uncomment if you want to ignore uploads)
+# uploads/
